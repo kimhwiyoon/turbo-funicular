@@ -23,6 +23,8 @@
 - s: 화면 갱신 주기를 변경, 기본값은 3초
 - f: 출력 포맷을 변경
 
+![top](https://github.com/kimhwiyoon/turbo-funicular/assets/170848563/34a0aeaa-8097-4ebd-a3a8-b1a819854ab3)
+
 ***
 
 ## ps 명령어란? ##
@@ -83,6 +85,7 @@
 * SIGHUP (1): 이 신호는 프로세스에게 설정을 다시 읽도록 요청
    * 이 신호를 통해 데몬 등의 백그라운드 프로세스를 재시작할 수 있다.
 
+![kill](https://github.com/kimhwiyoon/turbo-funicular/assets/170848563/cf38dfd4-6b68-401d-a126-83aa7261f709)
 
 
 
